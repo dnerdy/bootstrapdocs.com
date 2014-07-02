@@ -1,0 +1,64 @@
+.documentation li {
+    display: inline-block;
+    margin-right: 4px;
+    margin-bottom: 6px;
+}
+
+header {
+    margin: 40px 0px 20px;
+    text-align: center;
+}
+
+header h1 {
+    font-size: 64px;
+}
+
+header p {
+    font-size: 20px;
+    color: #ccc;
+    margin-top: 20px;
+}
+
+.documentation {
+    margin-bottom: 30px;
+}
+
+.documentation ul a {
+    margin-right: 4px;
+}
+
+.previews {
+    padding: 20px 0px;
+    background: whiteSmoke url('../img/dust.png') 0px 0px repeat;
+    text-align: center;
+    border-top: 1px solid #eee;
+    border-bottom: 1px solid #eee;
+}
+
+.previews h3 {
+    margin-top: -10px;
+}
+
+.carousel {
+    max-width: 500px;
+    margin-bottom: 0px;
+    display: inline-block;
+    -webkit-box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.carousel-caption {
+    padding: 10px 15px;
+}
+
+.carousel-control {
+    top: 45%;
+}
+
+.browse-themes {
+    margin-top: 10px;
+}
+
+footer {
+    margin-top: 40px;
+}
